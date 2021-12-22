@@ -86,3 +86,4 @@ odroid@odroidxu4:~$ vi cloudshell2-monitoring.conf
 ```bash
 odroid@odroidxu4:~$ sudo apt-get remove cloudshell-lcd
 ```
+*Einmal Neustarten um Ergebnisse zu sehen.*
